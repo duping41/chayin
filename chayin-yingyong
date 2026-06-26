@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>关于咖啡因节律管家</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 24px 18px;
+            font-family: system-ui, -apple-system, "Microsoft YaHei", sans-serif;
+            color: #222;
+            line-height: 1.8;
+            font-size: 15px;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 22px;
+            text-align: center;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        .version {
+            text-align: center;
+            color: #555;
+            font-size: 15px;
+            margin-bottom: 26px;
+        }
+        h2 {
+            font-size: 18px;
+            margin: 28px 0 8px;
+            font-weight: 600;
+        }
+        p {
+            margin-bottom: 12px;
+            text-indent: 0;
+        }
+        .bottom-tip {
+            margin-top: 40px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>关于咖啡因节律管家</h1>
+    <div class="version">版本号：V1.0.0</div>
+
+    <h2>关于独立开发者</h2>
+    <p>大家好，我是本应用个人独立开发者，全程独立完成产品构思、界面设计、代码编写、功能迭代全流程开发，没有团队、没有公司运营，初衷只是打造一款纯粹、无广告、尊重隐私的咖啡因健康记录小工具。</p>
+
+    <h2>创作初衷</h2>
+    <p>市面上多数饮咖记录类软件要么繁杂广告繁多，要么强制联网收集个人数据，功能仅停留在简单记账。</p>
+    <p>我自身也有喝咖啡、担心晚间失眠的困扰，于是设计这款工具：不止记录你喝进去多少咖啡因，还通过代谢衰减数学模型预判体内咖啡因回落节奏，帮你把控合适饮用时间，做到「白天提神提效，夜里安稳入睡」，理性适度饮咖。</p>
+
+    <h2>开发理念</h2>
+    <p>1、隐私优先：全应用纯离线单机运行，所有饮用数据、个人设置仅保存在你本机手机内，不上传任何服务器，绝不收集、共享你的个人信息；</p>
+    <p>2、极简无扰：无开屏广告、无推送骚扰、无多余弹窗打扰，工具回归本身用途；</p>
+    <p>3、循序渐进迭代：基础功能永久免费可用，后期仅新增可选买断专业版进阶功能，绝不强制扣费、捆绑消费；</p>
+    <p>4、开放反馈：根据用户真实建议持续优化饮品库、运算逻辑、使用体验。</p>
+
+    <h2>付费规划说明（当前免费，预留后期内购）</h2>
+    <p>1、当前版本：全部基础录入、每日统计、自定义饮品、基础上限设置永久免费使用；</p>
+    <p>2、后续版本规划：推出一次性永久买断专业版，解锁咖啡因深度代谢分析、30天完整趋势图表、月度深度报表、数据导出备份、批量历史记录管理等专属进阶能力；</p>
+    <p>3、买断为一次性付费模式，无按月/按年订阅，自愿选购，免费版基础功能永久不会阉割限制。</p>
+
+    <h2>健康温馨提示</h2>
+    <p>咖啡因适量摄入可缓解疲惫、提升专注力、改善日间困倦；健康成年人单日咖啡因建议总摄入不超过400mg。</p>
+    <p>本App代谢测算结果仅为数学模拟健康参考，不能替代医生诊疗；孕期、心脏敏感、睡眠障碍等特殊人群，请遵从医嘱控制饮用量。</p>
+
+    <h2>联系与反馈</h2>
+    <p>如果你遇到BUG、有功能改进建议、想要新增饮品条目、疑问咨询，可通过邮箱联系我：请替换填写你的个人邮箱</p>
+
+    <h2>版权声明</h2>
+    <p>本应用界面、程序代码、内置饮品数据库、文案内容著作权均归本人所有；</p>
+    <p>禁止逆向破解、反编译、篡改付费校验逻辑、私自打包分发破解版安装包，禁止商用二次改造倒卖。</p>
+
+    <div class="bottom-tip">
+        本页面内容最终解释权归独立开发者所有
+    </div>
+</body>
+</html>
